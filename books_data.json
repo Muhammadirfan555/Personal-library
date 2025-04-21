@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Miya Mantu",
+        "author": "Muhammad Irfan ",
+        "year": "2025",
+        "genre": "fantsy",
+        "read": true
+    },
+    {
+        "title": "mary kahani",
+        "author": "taha",  
+        "year": "2025",
+        "genre": "fani",
+        "read": false
+    }
+]
